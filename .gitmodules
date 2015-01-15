@@ -1,0 +1,3 @@
+[submodule "WOW"]
+	path = WOW
+	url = https://github.com/timmyg/WOW.git
