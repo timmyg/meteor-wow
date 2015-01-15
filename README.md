@@ -12,7 +12,7 @@ Template.landing.rendered = ->
   Content to Reveal Here
 </div>
 
-// or
+<!--  or -->
 
 <div class="wow swing">
   Other Content to Reveal Here
